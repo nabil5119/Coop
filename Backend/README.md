@@ -1,0 +1,2 @@
+# CoStats
+ Stats for Coops
